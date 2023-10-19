@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697732820 source:c:\users\medhat\onedrive\desktop\c2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
